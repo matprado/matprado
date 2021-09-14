@@ -9,8 +9,13 @@
 🎮 My itch.io profile: https://matprado.itch.io/
 
 [![matprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=matprado)](https://github.com/matprado/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matprado&repo=github-readme-stats)](https://github.com/matprado/AdoPet)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matprado&repo=github-readme-stats)](https://github.com/matprado/github-readme-stats)
+<!--
+ Comando para mostrar um repositório a mais pra ficar fixo na página
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matprado&repo=github-readme-stats)](https://github.com/matprado/AdoPet)
+-->
+
 
 
 <!--
