@@ -10,6 +10,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<matprado>&theme=<dark>" />
 
+[![matprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=matprado)](https://github.com/matprado/github-readme-stats)
 
 
 <!--
