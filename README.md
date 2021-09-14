@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-👨‍💻 My name is Mateus Prado and I'm a Computer Science student at University of São Paulo. 
+👨‍💻 My name is Mateus Prado. I'm a Computer Science student at University of São Paulo. 
 
 🕹️ I'm currently a game developer at Fellowship of the Game.
 
