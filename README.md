@@ -3,11 +3,13 @@
 😄 I'm Mateus. 
 
 👨‍💻 I'm a Computer Science student at University of São Paulo. 
+
 🕹️ I'm also a game developer at Fellowship of the Game.
 
 📖 Looking to learn something new everyday.
 
 👔 My Linkedin profile: https://www.linkedin.com/in/mateus-prado-santos/
+
 🎮 My itch.io profile: https://matprado.itch.io/
 
 <!--
