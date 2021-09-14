@@ -8,10 +8,9 @@
 
 🎮 My itch.io profile: https://matprado.itch.io/
 
+![matprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=matprado&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matprado&hide=VHDL,Tcl&layout=compact&langs_count=6)]
-[![matprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=matprado)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matprado&hide=VHDL,Tcl&layout=compact&langs_count=6&theme=dark)
 
 <!--
  DESTACAR REPO:
