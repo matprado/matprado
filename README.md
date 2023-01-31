@@ -1,8 +1,6 @@
 ### Hi there! 👋
 
-👨‍💻 My name is Mateus Prado. I'm a Computer Science student at University of São Paulo. 
-
-🕹️ I'm currently a game developer at Fellowship of the Game.
+👨‍💻 My name is Mateus Prado. I'm a Full Stack Developer working at mywork. 
 
 👔 My Linkedin profile: https://www.linkedin.com/in/mateus-prado-santos/
 
